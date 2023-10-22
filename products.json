@@ -1,5 +1,4 @@
-{
-    "products": [
+[
         {
             "type": "Stylish Shirt",
             "price": "15",
@@ -39,6 +38,4 @@
                 "Clothes",
                 "Casual"
             ]
-        }
-    ]
-}
+        }]
