@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "type": "Stylish Shirt",
+            "price": "15",
+            "desc": "Stylish shirt for a night out on the town!",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "categories": [
+                "Clothes",
+                "Formal"
+            ]
+        },
+        {
+            "type": "Fancy Pants",
+            "price": "25",
+            "desc": " These fancy pants are sure to impress!",
+            "sizes": [
+                "Medium",
+                "Large"
+            ],
+            "categories": [
+                "Clothes",
+                "Formal"
+            ]
+        },
+        {
+            "type": "Snazzy Shoes",
+            "price": "40",
+            "desc": "Proven to improve your dance moves!",
+            "sizes": [
+                "Small",
+                "Medium"
+            ],
+            "categories": [
+                "Clothes",
+                "Casual"
+            ]
+        }
+    ]
+}
