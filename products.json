@@ -38,4 +38,131 @@
                 "Clothes",
                 "Casual"
             ]
-        }]
+        },
+        {
+            "type": "Snazzier Socks",
+            "price": "8",
+            "desc": "Best matched with Snazzy Shoes for best effects!",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "categories": [
+                "Clothes",
+                "Casual",
+                "Accessories"
+            ]
+        },
+
+        {
+            "type": "Perfect Purse",
+            "price": "60",
+            "desc": "High end bag to fit all you need on the go.",
+            "sizes": [
+                "Large"
+            ],
+            "categories": [
+                "Accessories",
+                "Stylish"
+            ]
+        },
+        {
+            "type": "Fun Flannel",
+            "price": "20",
+            "desc": " Wear over Stylish Shirt for best effects!",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "categories": [
+                "Clothes",
+                "Formal"
+            ]
+        },
+        {
+            "type": "Hilarious Hat",
+            "price": "10",
+            "desc": " Wear over Stylish Shirt for best effects!",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "categories": [
+                "Clothes",
+                "Formal"
+            ]
+        },
+        {
+            "type": "Baseball Hat",
+            "price": "15",
+            "desc": "Keep Cool in the Sun",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "categories": [
+                "Accessories",
+                "Casual"
+            ]
+        },
+        {
+            "type": "Pink Dress",
+            "price": "35",
+            "desc": " Stylish for any season",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "categories": [
+                "Clothes",
+                "Formal"
+            ]
+        },
+        {
+            "type": "Blue Dress",
+            "price": "35",
+            "desc": " Stylish for any season",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "categories": [
+                "Clothes",
+                "Formal"
+            ]
+        },
+        {
+            "type": "Serious Pants",
+            "price": "70",
+            "desc": " No Funny Business",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "categories": [
+                "Clothes",
+                "Formal"
+            ]
+        },
+        {
+            "type": "Green Dress",
+            "price": "80",
+            "desc": " Premium Material",
+            "sizes": [
+                "Small",
+                "Medium",
+                "Large"
+            ],
+            "categories": [
+                "Clothes",
+                "Formal"
+            ]
+        }
+]
